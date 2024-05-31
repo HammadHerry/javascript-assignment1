@@ -1,0 +1,5 @@
+alert('firstname')
+alert('fathername')
+alert('email')
+alert('phone')
+alert('password')
